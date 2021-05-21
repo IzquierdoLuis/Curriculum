@@ -1,0 +1,32 @@
+*{
+    font-family: arial;
+    border-radius: 7px;
+}
+
+div{
+    margin: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    box-shadow: 0 0 25px black;
+}
+
+h1, h2, #contact{
+    font-weight: bold;
+    text-align: right;
+}
+
+h1, h2, h3{
+    padding: 10px;
+    font-weight: bold;
+    background-color: #246ad3;
+    color: white;
+}
+
+p{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+p, li{
+    font-size: 1.2em;
+}
